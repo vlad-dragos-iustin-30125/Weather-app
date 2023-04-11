@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Other commands that must be used before npm start: npm i react-accessible-accordion
+                                                   npm i react-select-async-paginate --force
+
 ## Available Scripts
 
 In the project directory, you can run:
